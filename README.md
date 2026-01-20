@@ -7,7 +7,7 @@
 <style>
 body {
   margin: 0;
-  background: url(https://example.com/bg.jpg) no-repeat center center fixed;
+  background: url([https://example.com/bgjpg](https://photos.app.goo.gl/FFHd3nEk2naekaeG8)) no-repeat center center fixed;
   background-size: cover;
   color: #fff;
   font-family: sans-serif;
